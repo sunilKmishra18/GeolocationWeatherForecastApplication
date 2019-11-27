@@ -1,2 +1,2 @@
 # GeolocationWeatherForecastApplication
-Demonstrate Android  and iOS Application with Geolocation based Weather Forecast feature using React Native Framework
+Demonstrate Android  and iOS Weather Forecast Application based on Geolocation using React Native Framework
